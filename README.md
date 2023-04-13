@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Parmar Kirti</h1>
+<h1 >Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">, I'm<a>Kirti Parmar</a> <img height ="50px" src="<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>"</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
 
 - 🌱 I’m currently learning **Machine Learning**
 
