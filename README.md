@@ -1,4 +1,4 @@
-<h1 align="center" >Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">, I'm <a>Kirti Parmar</a> <img height ="50px" src="https://gifdb.com/gif/coding-girl-animation-fe7t4gejurmtof8v.html" /></h1>
+<h1 align="center" >Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">, I'm <a>Kirti Parmar</a> <img height ="50px" src="https://github.com/Kirti36/kirti36/blob/main/Coding%20Girl%20Animation.gif" /></h1>
 
 
 
