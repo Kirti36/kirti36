@@ -1,7 +1,6 @@
 <h1 align="center" >Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">, I'm <a>Kirti Parmar</a> <img height ="50px" src="https://github.com/Kirti36/kirti36/blob/main/Coding%20Girl%20Animation.gif" /></h1>
 
-
-
+I'm a **developer** with a demonstrated ability to deliver solutions to real-world problems. I'm skilled in **Full Stack Web Development**. I like learning new things I'm enthusiastic and a curious person. I mainly code in **Python**& **C++**. I'm intrested in expanding my knowledge in fields of **Machine Learning**, **Artificial Intelligence**, **AIoT**. I'm a fast learner, actively engaged in learning multiple domains. I love to take part in **Hackathons** and win them. I'm open to collaborate on projects and be the part of communities that empower individuals to learn technology.
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
