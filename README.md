@@ -1,4 +1,6 @@
-<h1 >Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">, I'm <a href='https://prasoon.codes' target='_blank'>Prasoon Soni</a> <img height ="50px" src="https://user-images.githubusercontent.com/75159757/178040612-2e299ced-ff5c-4999-8d45-5fbc0c9325be.gif" /></h1>
+<h1 align="center" >Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">, I'm <a href='https://prasoon.codes' target='_blank'>Prasoon Soni</a> <img height ="50px" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr" /></h1>
+
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
 
 
 <h3 align="center">A passionate frontend developer from India</h3>
