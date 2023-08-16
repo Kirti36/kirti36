@@ -22,6 +22,9 @@ I'm a **developer** with a demonstrated ability to deliver solutions to real-wor
 
 </p>
 
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poiret+One&pause=1000&color=F3F7F5&size=25&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
 
 
 
