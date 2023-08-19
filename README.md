@@ -1,4 +1,4 @@
-<h1 align="center" >Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">, I'm <a>Kirti Parmar!</a> </h1>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Kirti36&label=Profile%20views&color=0e75b6&style=flat" alt="Kirti36" /> </p>
 
 
