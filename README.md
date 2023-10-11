@@ -29,6 +29,8 @@ I'm a **developer** with a demonstrated ability to deliver solutions to real-wor
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poiret+One&pause=1000&color=F3F7F5&size=25&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 
+[![An image of @kirti36's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kirti36)](https://holopin.io/@kirti36)
+
 <h5 align="center">Connect with me:</h5>
 <p align="center">
 <a href="https://linkedin.com/in/parmar kirti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parmar kirti" height="30" width="40" /></a>
