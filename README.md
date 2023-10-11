@@ -1,5 +1,7 @@
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Kirti36&label=Profile%20views&color=0e75b6&style=flat" alt="Kirti36" /> </p>
+<a align="centre" href="https://github.com/kirti36/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=kirti36&style=for-the-badge">
+</a>
 
 
 I'm a **developer** with a demonstrated ability to deliver solutions to real-world problems. I'm skilled in **Full Stack Web Development**. I like learning new things I'm enthusiastic and a curious person. I mainly code in **Python**& **C++**. I'm intrested in expanding my knowledge in fields of **Machine Learning**, **Artificial Intelligence**, **AIoT**. I'm a fast learner, actively engaged in learning multiple domains. I'm open to collaborate on projects and be the part of communities that empower individuals to learn technology.
@@ -24,12 +26,14 @@ I'm a **developer** with a demonstrated ability to deliver solutions to real-wor
 </div>
 <br>
 
+[![An image of @kirti36's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kirti36)](https://holopin.io/@kirti36)
+
 <h3 align="center">
   <img height ="100px" src="https://github.com/Kirti36/kirti36/blob/main/Coding%20Girl%20Animation.gif" /> 
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poiret+One&pause=1000&color=F3F7F5&size=25&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 
-[![An image of @kirti36's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kirti36)](https://holopin.io/@kirti36)
+
 
 <h5 align="center">Connect with me:</h5>
 <p align="center">
