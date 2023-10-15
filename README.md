@@ -11,8 +11,9 @@ I'm a **developer** with a demonstrated ability to deliver solutions to real-wor
 - ☕️ I’m looking to collaborate on **new projects.**
 - 📫 How to reach me **[Mail Here](mailto:Kirtiparmar504@gmail.com)**
  <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirti36&show_icons=true&theme=transparent)
- 
+ <div align="center">
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kirti36&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="kirti's github stats" /></a> 
+ </div>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <p align="center">
