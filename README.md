@@ -4,7 +4,7 @@
 </a>
 
 
-I'm a **developer** with a demonstrated ability to deliver solutions to real-world problems. I'm skilled in **Full Stack Web Development**. I like learning new things I'm enthusiastic and a curious person. I mainly code in **Python**& **C++**. I'm intrested in expanding my knowledge in fields of **Machine Learning**, **Artificial Intelligence**, **AIoT**. I'm a fast learner, actively engaged in learning multiple domains. I'm open to collaborate on projects and be the part of communities that empower individuals to learn technology.
+I'm a **developer** with a demonstrated ability to deliver solutions to real-world problems. I'm skilled in **Full Stack Web Development**. I like learning new things I'm enthusiastic and a curious person. 
 <br>
 - 🎓 Pursuing **B.Tech.** in **Artificial Intelligence & Data Science**
 - 🔭 I’m currently working as **Full Stack Developer**
