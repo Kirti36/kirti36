@@ -6,9 +6,7 @@
 
 I'm a **developer** with a demonstrated ability to deliver solutions to real-world problems. I'm skilled in **Full Stack Web Development**. I like learning new things I'm enthusiastic and a curious person. 
 <br>
-- 🎓 Pursuing **B.Tech.** in **Artificial Intelligence & Data Science**
 - 🔭 I’m currently working as **Full Stack Developer**
-- ☕️ I’m looking to collaborate on **new projects.**
 - 📫 How to reach me **[Mail Here](mailto:Kirtiparmar504@gmail.com)**
  <br>
  
