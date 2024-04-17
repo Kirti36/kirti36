@@ -4,7 +4,7 @@
 </a>
 
 
-I'm a **developer** with a demonstrated ability to deliver solutions to real-world problems. I like learning new things I'm enthusiastic and a curious person. 
+I'm a **developer** . I like learning new things. 
 <br>
 - 🔭 I’m currently exploring **Data Science**
 - 📫 How to reach me **[Mail Here](mailto:Kirtiparmar504@gmail.com)**
