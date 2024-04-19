@@ -10,7 +10,7 @@ I'm a **developer** . I like learning new things.
 - 📫 How to reach me **[Mail Here](mailto:Kirtiparmar504@gmail.com)**
  <br>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Languages-Frameworks-Tools</h2>
 <div align="center">
     <p align="center">
   <a href="https://skillicons.dev">
