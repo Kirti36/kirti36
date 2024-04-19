@@ -14,7 +14,7 @@ I'm a **developer** . I like learning new things.
 <div align="center">
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,cpp,css,html,linux,py,java" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,java,bootstrap,css,html,linux,js,opencv,sqlite" />
   </a>
 </p>
 </div>
