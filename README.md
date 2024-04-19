@@ -25,8 +25,6 @@ I'm a **developer** . I like learning new things.
 </div>
 <br>
 
-[![An image of @kirti36's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kirti36)](https://holopin.io/@kirti36)
-
 <h3 align="center">
   <img height ="100px" src="https://github.com/Kirti36/kirti36/blob/main/Coding%20Girl%20Animation.gif" /> 
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poiret+One&pause=1000&color=F3F7F5&size=25&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
