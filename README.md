@@ -10,9 +10,9 @@ I'm a **developer** . I like learning new things.
 - 📫 How to reach me **[Mail Here](mailto:Kirtiparmar504@gmail.com)**
  <br>
  
-<h2 align="center">Languages-Frameworks-Tools</h2>
-<div align="center">
-    <p align="center">
+<h2 >Languages-Frameworks-Tools</h2>
+<div >
+    <p >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,c,py,java,bootstrap,css,html,linux,js,opencv,sqlite" />
   </a>
