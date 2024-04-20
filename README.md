@@ -4,6 +4,7 @@
 </a>
 <br>
 - 🔭 I’m currently exploring **Data Science**
+
 - 📫 How to reach me **[Mail Here](mailto:Kirtiparmar504@gmail.com)**
  <br>
  
