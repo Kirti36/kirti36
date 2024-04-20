@@ -2,9 +2,6 @@
 <a align="centre" href="https://github.com/kirti36/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=kirti36&style=for-the-badge">
 </a>
-
-
-I'm a **developer** . I like learning new things. 
 <br>
 - 🔭 I’m currently exploring **Data Science**
 - 📫 How to reach me **[Mail Here](mailto:Kirtiparmar504@gmail.com)**
@@ -24,12 +21,6 @@ I'm a **developer** . I like learning new things.
  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=kirti36&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <br>
-
-<h3 align="center">
-  <img height ="100px" src="https://github.com/Kirti36/kirti36/blob/main/Coding%20Girl%20Animation.gif" /> 
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poiret+One&pause=1000&color=F3F7F5&size=25&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
-
 
 
 <h5 align="center">Connect with me:</h5>
