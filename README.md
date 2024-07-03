@@ -3,10 +3,15 @@
     <img src="https://komarev.com/ghpvc/?username=kirti36&style=for-the-badge">
 </a>
 <br>
+<p align="center">
+<img align="center" alt="coding" width="270" src="Coding Girl Animation.gif/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+</p>
 
-- 🔭 I’m currently exploring **Data Science**
 
-- 📫 How to reach me **[Mail Here](mailto:Kirtiparmar504@gmail.com)**
+
+- I’m currently exploring **Data Science**
+- Currently working on my side projects
+- How to reach me **[Mail Here](mailto:Kirtiparmar504@gmail.com)**
  <br>
  
 
