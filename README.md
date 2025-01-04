@@ -4,7 +4,7 @@
 </a>
 <br>
 <p align="center">
-<img align="center" alt="coding" width="270" src="Coding Girl Animation.gif/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img align="center" alt="coding" width="270" src="kimm.gif/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 </p>
 
 
